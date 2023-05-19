@@ -1,0 +1,15 @@
+C:\Programas\CSharp_Basico\3-DesafioFatorial\bin\Debug\net6.0\3-DesafioFatorial.exe
+C:\Programas\CSharp_Basico\3-DesafioFatorial\bin\Debug\net6.0\3-DesafioFatorial.deps.json
+C:\Programas\CSharp_Basico\3-DesafioFatorial\bin\Debug\net6.0\3-DesafioFatorial.runtimeconfig.json
+C:\Programas\CSharp_Basico\3-DesafioFatorial\bin\Debug\net6.0\3-DesafioFatorial.dll
+C:\Programas\CSharp_Basico\3-DesafioFatorial\bin\Debug\net6.0\3-DesafioFatorial.pdb
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.csproj.AssemblyReference.cache
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.AssemblyInfoInputs.cache
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.AssemblyInfo.cs
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.dll
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\refint\3-DesafioFatorial.dll
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.pdb
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\3-DesafioFatorial.genruntimeconfig.cache
+C:\Programas\CSharp_Basico\3-DesafioFatorial\obj\Debug\net6.0\ref\3-DesafioFatorial.dll

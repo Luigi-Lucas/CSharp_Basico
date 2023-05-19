@@ -1,0 +1,15 @@
+C:\Programas\CSharp_Basico\1-DesafioAliquota\bin\Debug\net6.0\1-DesafioAliquota.exe
+C:\Programas\CSharp_Basico\1-DesafioAliquota\bin\Debug\net6.0\1-DesafioAliquota.deps.json
+C:\Programas\CSharp_Basico\1-DesafioAliquota\bin\Debug\net6.0\1-DesafioAliquota.runtimeconfig.json
+C:\Programas\CSharp_Basico\1-DesafioAliquota\bin\Debug\net6.0\1-DesafioAliquota.dll
+C:\Programas\CSharp_Basico\1-DesafioAliquota\bin\Debug\net6.0\1-DesafioAliquota.pdb
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.csproj.AssemblyReference.cache
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.AssemblyInfoInputs.cache
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.AssemblyInfo.cs
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.csproj.CoreCompileInputs.cache
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.dll
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\refint\1-DesafioAliquota.dll
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.pdb
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\1-DesafioAliquota.genruntimeconfig.cache
+C:\Programas\CSharp_Basico\1-DesafioAliquota\obj\Debug\net6.0\ref\1-DesafioAliquota.dll

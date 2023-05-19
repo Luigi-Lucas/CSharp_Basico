@@ -1,0 +1,15 @@
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\bin\Debug\net6.0\2-DesafioMultiplosDe3.exe
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\bin\Debug\net6.0\2-DesafioMultiplosDe3.deps.json
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\bin\Debug\net6.0\2-DesafioMultiplosDe3.runtimeconfig.json
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\bin\Debug\net6.0\2-DesafioMultiplosDe3.dll
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\bin\Debug\net6.0\2-DesafioMultiplosDe3.pdb
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.csproj.AssemblyReference.cache
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.AssemblyInfoInputs.cache
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.AssemblyInfo.cs
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.dll
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\refint\2-DesafioMultiplosDe3.dll
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.pdb
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\2-DesafioMultiplosDe3.genruntimeconfig.cache
+C:\Programas\CSharp_Basico\2-DesafioMultiplosDe3\obj\Debug\net6.0\ref\2-DesafioMultiplosDe3.dll
